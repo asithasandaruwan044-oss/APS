@@ -8,7 +8,7 @@ public class User {
     // Constructor
     public User(String username, String password) {
         this.username = username;
-        this.password = password;
+        ;
     }
 
     // Getters and Setters
